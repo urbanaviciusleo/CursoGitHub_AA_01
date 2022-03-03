@@ -1,4 +1,8 @@
 1) O que é um repositório?
+É um local onde são guardadas todos os arquivos do seu projeto.
 2) Qual a diferença entre Git e Github?
+Git é um programa de computador que faz o versionamento do seu projeto, Github é uma rede social onde você pode colocar seus projetos e acessar o de outras pessoas.
 3) Por que utilizar controle de versão para os arquivos de um projeto de desenvolvimento de software?
+É importante a utilização do controle de versão, pois ela facilita a equipe saber quais mudanças foram feitas em cada parte do projeto e te possibilita voltar para outra versão antiga caso a atual não esteja funcionando bem.
 4) Quais vantagens você enxerga no Git? Você utilizaria em seu projeto?
+As vantagens que vejo no Git são a organização e a melhoria da comunicação quando o trabalho é feito em grupo. Sim.
